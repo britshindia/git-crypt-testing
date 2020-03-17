@@ -5,6 +5,6 @@ import (
 )
 
 func main () {
-	fmt.Println("inside main")
+	fmt.Println("inside main - edited by mondfleur")
 	return
 }
